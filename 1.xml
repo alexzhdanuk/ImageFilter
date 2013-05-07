@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+	<Filters>
+		<filterOption name='Bi-color Filter'>
+			<filter name = "8" isActive = "1" r = "125" b = "47" g = "104" value = "10" a = "40"  R  = "253" G = "254" B = "228" ></filter>
+		</filterOption>
+		<filterOption name='peta'>
+			<filter name = "8" isActive = "1" r = "110" b = "110" g = "110" value = "0" a = "102" R  = "0" G = "0" B = "0" ></filter>
+		</filterOption>
+		<filterOption name='Blech Bypass'>
+			<filter name = "5" isActive = "1" r = "0" b = "0" g = "0" value = "75" a = "255"  R  = "0" G = "0" B = "0" ></filter>
+			<filter name = "6" isActive = "1" r = "0" b = "0" g = "0" value = "-5" a = "255" R  = "0" G = "0" B = "0" ></filter>
+		</filterOption>
+		<filterOption name='Dark kontrast'>
+			<filter name = "5" isActive = "1" r = "0" b = "0" g = "0" value = "15" a = "255"  R  = "0" G = "0" B = "0" ></filter>
+			<filter name = "6" isActive = "1" r = "0" b = "0" g = "0" value = "-20" a = "255" R  = "0" G = "0" B = "0" ></filter>
+			<filter name = "8" isActive = "1" r = "0" b = "0" g = "0" value = "20" a = "10" R  = "128" G = "128" B = "128" ></filter>
+		</filterOption>
+		<filterOption name='lena'>
+			<filter name = "0" isActive = "0" r = "0" b = "0" g = "0" value = "10" a = "255" R  = "0" G = "0" B = "0" ></filter>
+		</filterOption>
+		<filterOption name='Blur'>
+			<filter name = "3" isActive = "1" r = "0" b = "0" g = "0" value = "8" a = "255" R  = "0" G = "0" B = "0" ></filter>
+		</filterOption>
+	</Filters>
+</settings>
